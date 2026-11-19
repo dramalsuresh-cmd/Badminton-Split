@@ -1,0 +1,8 @@
+{
+  "name": "badminton-fund",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "description": "Badminton court fund tracker with admin login"
+}
